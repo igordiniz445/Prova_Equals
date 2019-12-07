@@ -45,7 +45,7 @@ public class Exercicio5 {
                     pilha.pop();
                 }else{
                     System.out.println(bracket+" - NÃO");
-                    System.exit(0);
+                    break;
                 }
             }
         }
